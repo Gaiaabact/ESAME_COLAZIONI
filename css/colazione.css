@@ -1,0 +1,188 @@
+
+    body{
+        padding: 0px;
+        margin: 0px;
+        background-color: white;
+    
+}
+
+#navbar {
+    background-color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.link_navigazione {
+    padding: 10px; 
+}
+
+
+.nav_link {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+}
+
+
+.nav_link li {
+    display: inline; 
+    margin-right: 20px; 
+}
+
+
+.nav_link li a {
+    text-decoration: none;
+    color: black; 
+    font-weight: bold; 
+}
+    
+    
+
+.testo_home {
+    font-size:20px ;
+}
+
+.testo_home h1{
+    text-align: center;
+}
+
+
+.introduzione {
+    background-color: beige;
+    font-size: 16px; 
+    line-height: 120%; 
+    margin-bottom: 20px; 
+    align-items: center;
+}
+
+.introduzione p{
+    display: flex;
+    padding: 10%;
+    margin-left: 15%;
+}
+
+
+
+
+
+.titolo1 {
+    text-align: center;
+}
+
+.paragrafo_01 p {
+    display: flex;
+    padding: 10%;
+    margin-top: 0px;
+    margin-left: 600px;
+   
+}
+
+.paragrafo_01 img{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 60px; 
+}
+
+
+
+
+
+
+.titolo2 {
+    text-align: center;
+}
+
+.paragrafo_02 p {
+    display: flex;
+    padding: 10%;
+    margin-top: 0px;
+    margin-left: 600px;
+   
+}
+
+.paragrafo_02 img{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 60px; 
+}
+
+
+
+
+
+
+
+.titolo3 {
+    text-align: center;
+}
+
+.paragrafo_03 p {
+    display: flex;
+    padding: 10%;
+    margin-top: 0px;
+    margin-left: 600px;
+   
+}
+
+.paragrafo_03 img{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 60px; 
+}
+
+
+
+
+.paragrafo_04{
+    background-color: beige;
+    font-size: 16px; 
+    line-height: 120%; 
+    margin-bottom: 20px; 
+    align-items: center;
+}
+
+
+.paragrafo_04 p{
+    padding: 5%;
+    display: flex;
+    margin-left: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.link_navigazione {
+    padding: 10px; 
+}
+
+
+.nav_link_02 {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+}
+
+
+.nav_link_02 li {
+    display: inline; 
+    margin-right: 20px; 
+}
+
+
+.nav_link_02 li a {
+    text-decoration: none;
+    color: black; 
+    font-weight: bold; 
+}
+
